@@ -1,0 +1,29 @@
+body{
+	background: url("../img/1.jpg");
+	background-size: cover;
+	text-align: center;
+}
+img{
+	margin: 0px 50px 0px 100px;
+	padding: 10px;
+	border-radius:50%;
+	border
+	box-shadow: 0px 0px 40px 20px;
+}
+p{
+	font-size: 30px;
+	color: white;
+	font-style: italic;
+}
+#env{
+	width: 70px;
+	height: 30px;
+	font-size: 20px;
+	background: red;
+	color: white;
+	border:none;
+}
+#email{
+	width: 200px;
+	height: 26px;
+}
